@@ -1,0 +1,61 @@
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\bin\Debug\net6.0\Business.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\Business\obj\Debug\net6.0\ref\Business.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\bin\Debug\net6.0\Business.deps.json
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\bin\Debug\net6.0\Business.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\bin\Debug\net6.0\Business.pdb
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\bin\Debug\net6.0\DataAccess.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\bin\Debug\net6.0\Entities.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\bin\Debug\net6.0\Entities.pdb
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\refint\Business.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\Business.pdb
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\Business\obj\Debug\net6.0\ref\Business.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\Business.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\refint\Business.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\Business\obj\Debug\net6.0\Business.pdb

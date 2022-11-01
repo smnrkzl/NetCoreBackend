@@ -1,0 +1,55 @@
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\bin\Debug\net6.0\Entities.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\bin\Debug\net6.0\Entities.pdb
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\YAZILIM VİDEOLARI\.net proje geliştirme süreci\gelistirme2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\kizil\OneDrive\Masaüstü\c#deneme\MyFinalProject2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\YAZILIM VIDEOLARI\.net proje geliştirme süreci\NetCoreBackend\DataAccess\obj\Debug\net6.0\DataAccess.pdb

@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Business\\Business.csproj": {}
+  },
+  "projects": {
+    "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\kizil\\.nuget\\packages\\",
+        "outputPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kizil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\DataAccess\\DataAccess.csproj"
+              },
+              "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\kizil\\.nuget\\packages\\",
+        "outputPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kizil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.24.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\kizil\\.nuget\\packages\\",
+        "outputPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kizil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\Core.csproj": {
+                "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\Core.csproj"
+              },
+              "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\kizil\\.nuget\\packages\\",
+        "outputPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kizil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\Core.csproj": {
+                "projectPath": "D:\\YAZILIM VIDEOLARI\\.net proje geliştirme süreci\\NetCoreBackend\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
